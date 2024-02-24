@@ -1,6 +1,9 @@
 # Prueba técnica para Traxporta
 
-Prueba tecnica para Traxporta, lista de usuarios consumiento API [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/) y mostrando su detalle y Google Maps
+Prueba tecnica para Traxporta, lista de usuarios consumiento API [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/) y mostrando su detalle y Google Maps.
+
+Uso de [Pinia](https://pinia.vuejs.org/)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## DEMO
