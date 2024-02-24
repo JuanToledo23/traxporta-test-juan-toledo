@@ -1,6 +1,11 @@
-# Traxporta
+# Prueba técnica para Traxporta
 
+Prueba tecnica para Traxporta, lista de usuarios consumiento API [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/) y mostrando su detalle y Google Maps
 This template should help get you started developing with Vue 3 in Vite.
+
+## DEMO
+
+[https://traxporta-test-juan-toledo.web.app/](https://traxporta-test-juan-toledo.web.app/)
 
 ## Recommended IDE Setup
 
